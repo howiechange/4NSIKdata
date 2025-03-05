@@ -1,0 +1,13 @@
+{
+    "download_dir": "C:\\Users\\lsa73\\Downloads",
+    "folders": {
+        "Pictures": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+        "PDFs": [".pdf"],
+        "Word Docs": [".docx", ".doc"],
+        "Excel Sheets": [".xlsx", ".xls"],
+        "Text Files": [".txt"],
+        "Videos": [".mp4"],
+        "Scripts": [".py", ".sh", ".bat"],
+        "Data Files": [".json"]
+    }
+}
